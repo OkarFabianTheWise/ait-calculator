@@ -26,3 +26,7 @@ function divide(a: number, b: number): number | string {
 
 const quotient = divide(a, b);
 console.log(`The quotient of ${a} divided by ${b} is ${quotient}`);
+
+// ASSIGMENT - Create multiply and modulus functions
+// Append your name as a comment below the file!
+// Orkar Fabian
